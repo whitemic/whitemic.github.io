@@ -1,0 +1,423 @@
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 73px;
+    border-bottom: solid;
+    border-width: 2px;
+    border-color: #cccccc;
+    background-color: #ffffff;
+}
+
+.wrapper {
+    margin: auto;
+    width: 960px;
+}
+
+nav{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    margin-top: -75px;
+    float: right;
+    padding: 30px;
+}
+
+#name-box {
+    margin-top: -75px;
+    padding: 20px;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 25pt;
+    background-color: #4aaaaf;
+    width: 275px;
+    float: left;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    font-weight: lighter;
+}
+
+.gallery {
+    background-color: #ffffff;
+    height: 500px;
+    position: relative;
+    top: 30px;
+}
+
+body {
+    background-image: url(../images/spiration-light.png);
+    color: #cccccc;
+    /* position: relative; */
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    border-top: solid;
+    border-color: #4aaaaf;
+    border-width: 5px;
+    background-color: #666666;
+    width: 100%;
+    height: 30px;
+}
+
+#footer-content {
+    font-size: 5.5pt;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%; 
+}
+
+h1 {
+    color: #4aaaaf;
+    padding: 10px;   
+    font-weight: bold;
+font-size: 18pt;
+}
+
+h2 {
+ color: #4aaaaf;
+ padding: 10px;   
+ font-weight: bold;
+ font-size: 14.5pt;
+}
+
+img {
+    padding: 20px;
+    float: left;
+}
+
+#hr-line {
+    margin: auto;
+    width: 98%;
+    height: 2px;
+    background-color: #cccccc;
+}
+
+#work1 {
+    position: relative;
+    height: 125px;
+    width: 155px;
+    background-image: url(../images/pic1.jpeg);
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+#work2 {
+    position: relative;
+    left: 180px;
+    top: -134px;
+    height: 125px;
+    width: 155px;
+    background-image: url(../images/pic2.jpeg);
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+#work3 {
+    position: relative;
+    bottom: 125;
+    height: 125px;
+    width: 155px;
+    background-image: url(../images/pic3.jpeg);
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+#work4 {
+    position: relative;
+    left: 180px;
+    bottom: 258px;
+    height: 125px;
+    width: 155px;
+    background-image: url(../images/pic4.jpeg);
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+#work5 {
+    position: relative;
+    bottom: 250px;
+    height: 125px;
+    width: 155px;
+    background-image: url(../images/pic5.jpeg);
+    margin-top: 1%;
+    margin-left: 1%;
+}
+#banner1 {
+    color: #ffffff;
+    font-size: 11pt;
+    text-align: center;
+    position: relative;
+    top: 80px;
+    background-color: #4aaaaf;
+    height: 35px;
+}
+
+#banner2 {
+    color: #ffffff;
+    font-size: 11pt;
+    text-align: center;
+    position: relative;
+    top: 80px;
+    background-color: #4aaaaf;
+    height: 35px;
+}
+
+#banner3 {
+    color: #ffffff;
+    font-size: 11pt;
+    text-align: center;
+    position: relative;
+    top: 80px;
+    background-color: #4aaaaf;
+    height: 35px;
+}
+
+#banner4 {
+    color: #ffffff;
+    font-size: 11pt;
+    text-align: center;
+    position: relative;
+    top: 80px;
+    background-color: #4aaaaf;
+    height: 35px;
+}
+
+#banner5 {
+    color: #ffffff;
+    font-size: 11pt;
+    text-align: center;
+    position: relative;
+    top: 80px;
+    background-color: #4aaaaf;
+    height: 35px;
+}
+
+#bc-1 {
+    position: relative;
+    top: 10px;
+}
+
+#bc-2 {
+    position: relative;
+    top: 10px;
+}
+
+#bc-3 {
+    position: relative;
+    top: 10px;
+}
+
+#bc-4 {
+    position: relative;
+    top: 10px;
+}
+
+#bc-5 {
+    position: relative;
+    top: 10px;
+}
+
+.content-box {
+    background-color: #ffffff;
+    height: 450px;
+    position: relative;
+    top: 30px;
+    line-height: 30px;
+}
+
+.contact-box {
+    color: #777777;
+    background-color: #ffffff;
+    height: 450px;
+    position: relative;
+    top: 30px; 
+}
+
+input {
+    width: 100%;
+    margin-top: 10px;
+}
+
+form {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding: 10px;
+    position: relative;
+    top: 15px;
+}
+
+#name {
+    margin-top: 10px;
+}
+
+::placeholder {
+    color: #cccccc
+}
+
+#submit {
+    color: #ffffff;
+    background-color: #4aaaaf;
+    width: 70px;
+    height: 30px;
+}
+
+textarea {
+   width: 100%;
+   margin-top: 10px;
+   border-color: #cccccc;
+}
+
+a {
+    color: #777777;
+    text-decoration: none;
+}
+
+#Hangman-link {
+    color: #ffffff;
+}
+
+#Crystal-link {
+    color: #ffffff;
+    margin-bottom: 0px;
+}
+
+@media screen and (max-width: 980px) {
+    #name-box {
+        margin-left: 5%;
+    }
+
+    .wrapper {
+        width: 100%;
+    }
+
+    .content-box, .contact-box {
+        width: 60%;
+        height: 60%;
+        font-size: 85%;
+        line-height: 130%;
+        margin-left: 5%;
+    }
+
+    .gallery {
+        width: 60%;
+        height: 70%;
+        margin-left: 5%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #name-box {
+        margin-left: 5%;
+    }
+
+    .wrapper {
+        width: 100%;
+    }
+
+    .content-box, .contact-box {
+        width: 90%;
+        height: 60%;
+        font-size: 85%;
+        line-height: 130%;
+        margin-left: 5%;
+    }
+
+    .gallery {
+        width: 90%;
+        height: 70%; 
+        margin-left: 5%;
+    }
+
+
+
+
+}
+
+@media screen and (max-width: 640px) {
+    .wrapper {
+        width: 100%;
+    }
+
+    #name-box {
+        width: 100%;
+        margin-left: 0%;
+        text-align: center;
+        padding: 10px;
+        /* position: relative; */
+    }
+
+    nav {
+        background-color: #ffffff;
+        padding: 1px;
+        margin-top: -5px;
+        float: none;
+        text-align: center;
+        margin-bottom: 3px;
+        border-bottom: #cccccc;
+        border-bottom: solid; 
+        font-size: 110%;
+    }
+
+    .content-box, .contact-box {
+        font-size: 75%;
+    }
+
+    .gallery {
+        width: 90%;
+        height: 107%;
+        /* margin: auto; */
+        margin-bottom: 20px;
+        overflow: hidden;
+    }
+
+    #work1 {
+        position: static;
+        /* background-repeat: no-repeat; */
+        width: 90%;
+        margin-left: 5%;
+
+    }
+
+    #work2 {
+        position: static;
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    #work3 {
+        position: static;
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    #work4 {
+        position: static;
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    #work5 {
+        position: static;
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    #pbody {
+        position: relative;
+    }
+
+    footer {
+        width: 100%;
+        position: absolute;
+        left: 0;
+        bottom: -50;
+    }
+
+
+
+
+
+}
