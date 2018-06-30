@@ -284,6 +284,11 @@ a {
     margin-bottom: 0px;
 }
 
+#Giphy-link, #Train-link {
+    color: #ffffff
+}
+
+
 @media screen and (max-width: 980px) {
     #name-box {
         margin-left: 5%;
