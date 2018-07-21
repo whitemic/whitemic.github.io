@@ -30,16 +30,6 @@ body, html {
     width: 100%;
 }
 
-/* #header{
-    position: absolute;
-    left: 40%;
-    z-index: 1000;
-    font-family: 'Raleway', sans-serif;
-    color: palevioletred;
-    opacity: 0.9;
-    font-size: 80px;
-    text-shadow: 5px 5px black;
-  } */
 
   #headerText {
     margin-left: 35%;
