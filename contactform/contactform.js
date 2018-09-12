@@ -31,6 +31,7 @@ jQuery(document).ready(function($) {
 
           case 'minlen':
             if (i.val().length < parseInt(exp)) {
+              console.log(i);
               ferror = ierror = true;
             }
             break;
