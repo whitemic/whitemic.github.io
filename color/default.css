@@ -1,0 +1,39 @@
+
+a,a:hover {
+	color: cornflowerblue;
+}
+
+.intro .page-scroll a:hover {
+	color: cornflowerblue;
+}
+
+.icon:hover .fa{
+	color: cornflowerblue;
+}
+
+ul.nav li a:hover {
+	color: cornflowerblue;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: cornflowerblue;
+}
+
+.bg-skin {
+	background: cornflowerblue;
+}
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color: cornflowerblue;
+}
+
+footer {
+    background-color: cornflowerblue;
+}
+
+.btn-skin {
+  color: #fff;
+  background-color: cornflowerblue;
+  border-color: cornflowerblue;
+}
